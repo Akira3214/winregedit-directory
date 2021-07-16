@@ -1,0 +1,1 @@
+# winregedit-directory
